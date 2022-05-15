@@ -16,3 +16,7 @@ https://space.bilibili.com/1650224419
 
 环境搭建：
 https://docs.substrate.io/v3/getting-started/installation/
+
+### books
+
+Rust实现的算法和数据结构 https://github.com/QMHTMY/RustBook
